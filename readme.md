@@ -1,3 +1,3 @@
-# git hub full course
+# Git Hub full course
 
 A fast paced tutorial.
